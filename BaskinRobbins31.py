@@ -1,5 +1,4 @@
 import tkinter as tk
-import time
 
 number = 0
 comp_turn = False
